@@ -18,6 +18,14 @@
 		{
 			"Name": "MotionWarping",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "Locomotor",
+			"Enabled": true
 		}
 	]
 }
